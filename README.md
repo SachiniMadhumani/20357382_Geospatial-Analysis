@@ -21,7 +21,7 @@ A Conda environment is recommended for geospatial packages such as `rasterio` an
 
 
 3. Project Structure
-LS-LRSI-Project/
+`LS-LRSI-Project/
 │
 ├── Setup and Dataset.ipynb
 ├── LS-LRSI.ipynb
@@ -35,7 +35,7 @@ LS-LRSI-Project/
     ├── Soil/
     ├── OSM/
     ├── Processed/
-    └── Output/
+    └── Output/`
 
 
 4. Required Datasets
