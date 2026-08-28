@@ -1,0 +1,26 @@
+DEM (SRTM 30m):
+   - Go to: https://earthexplorer.usgs.gov/
+   - Create free account
+   - Search for location: Badulla District, Sri Lanka (6.98°N, 81.05°E)
+   - Select: SRTM 1 Arc-Second Global
+   - Download and save as srtm_badulla.tif
+
+2. CHIRPS Rainfall:
+   - Go to: https://www.chc.ucsb.edu/data/chirps
+   - Download daily data for Sri Lanka region
+   - Save as chirps_lka.nc
+
+3. Administrative Boundaries:
+   - Download from: https://data.humdata.org/dataset/sri-lanka-administrative-boundaries
+   - Extract and filter for Badulla district
+   - Save as badulla_boundaries.shp
+
+4. OpenStreetMap Data:
+   - Download from: https://download.geofabrik.de/asia/sri-lanka-latest.osm.pbf
+   - Save as srilanka-latest.osm.pbf
+
+5. Soil Data (SoilGrids):
+   - Go to: https://soilgrids.org/
+   - Download for Sri Lanka region
+   - Save as soilgrids_lka.tif
+
